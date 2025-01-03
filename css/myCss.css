@@ -1,0 +1,17 @@
+html { scroll-behavior: smooth; }
+
+.swingRight{
+    transform: translateX(-100vw);
+}
+.swingLeft{
+    transform: translateX(100vw);
+}
+.swingBottom{
+    transform: translateY(-10vh);
+}
+.swingTop{
+    transform: translateY(100vh);
+}
+.opacity{
+    opacity: 0;
+}
